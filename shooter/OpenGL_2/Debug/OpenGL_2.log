@@ -1,0 +1,40 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGL_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\common\myplane.h(8): warning C4005: 'QUAD_NUM': 巨集重複定義
+  d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\common\backgroundstar_big.h(8): note: 請參閱 'QUAD_NUM' 之前的定義
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\common\myplane.h(39): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\common\enemy.h(61): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\common\enemy.h(70): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\common\healthicon.h(8): warning C4005: 'QUAD_NUM': 巨集重複定義
+  d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\common\myplane.h(8): note: 請參閱 'QUAD_NUM' 之前的定義
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\common\myguard.h(8): warning C4005: 'QUAD_NUM': 巨集重複定義
+  d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\common\healthicon.h(8): note: 請參閱 'QUAD_NUM' 之前的定義
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\common\myguard.h(41): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(46): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(47): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(106): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(112): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(127): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(130): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(133): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(136): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(139): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(146): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(214): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(216): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(221): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(222): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(223): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(224): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(225): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(269): warning C4305: '引數': 從 'double' 轉換為 'const GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(270): warning C4305: '引數': 從 'double' 轉換為 'const GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(271): warning C4305: '引數': 從 'double' 轉換為 'const GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(272): warning C4305: '引數': 從 'double' 轉換為 'const GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(273): warning C4305: '引數': 從 'double' 轉換為 'const GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(274): warning C4305: '引數': 從 'double' 轉換為 'const GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(275): warning C4305: '引數': 從 'double' 轉換為 'const GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(276): warning C4305: '引數': 從 'double' 轉換為 'const GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\108上學期\計算機圖學\copy\v4\shooter\opengl_2\main.cpp(602): warning C4154: 不能在陣列運算式上使用 delete; 所以將陣列轉換成指標
+  OpenGL_2.vcxproj -> D:\108上學期\計算機圖學\COPY\V4\shooter\Debug\shooter.exe
+  OpenGL_2.vcxproj -> D:\108上學期\計算機圖學\COPY\V4\shooter\Debug\shooter.pdb (Full PDB)
